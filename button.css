@@ -1,0 +1,22 @@
+#button{
+  height: 100px;
+  width: 100px;
+  background-color: red;
+}
+
+#hello {
+  height: 200px;
+  width: 350px;
+  background-color: yellow;
+  border: 2px solid black;
+  text-align: center;
+  padding-top: 45px;
+}
+.ui-dialog-titlebar-close
+{
+    display:none;
+}
+
+.ui-widget * {
+  outline-color: transparent;
+}​
